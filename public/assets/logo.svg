@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 90" width="380" height="90" fill="none">
+  <!-- Exact Geometric Skyscraper Emblem matching User Image -->
+  <g transform="translate(10, 8) scale(0.24)">
+    <!-- Tower 1 (Leftmost) -->
+    <path d="M40 310 L40 180 L65 160 L65 310 Z" fill="#132238" class="logo-fill-navy"/>
+    <path d="M65 310 L65 160 L92 140 L92 310 Z" fill="#6C7D93" class="logo-fill-slate"/>
+
+    <!-- Tower 2 (Center-Left) -->
+    <path d="M106 310 L106 128 L142 92 L142 310 Z" fill="#132238" class="logo-fill-navy"/>
+    <path d="M142 310 L142 92 L164 114 L164 310 Z" fill="#6C7D93" class="logo-fill-slate"/>
+
+    <!-- Tower 3 (Center Tallest Skyscraper with Peak) -->
+    <path d="M188 310 L188 75 L205 50 L205 310 Z" fill="#132238" class="logo-fill-navy"/>
+    <path d="M205 310 L205 50 L268 90 L268 310 Z" fill="#132238" class="logo-fill-navy"/>
+    <path d="M268 310 L268 90 L290 112 L290 310 Z" fill="#6C7D93" class="logo-fill-slate"/>
+
+    <!-- Tower 4 (Rightmost) -->
+    <path d="M304 310 L304 125 L326 145 L326 310 Z" fill="#132238" class="logo-fill-navy"/>
+    <path d="M326 310 L326 145 L375 190 L375 310 Z" fill="#6C7D93" class="logo-fill-slate"/>
+  </g>
+
+  <!-- Brand Typography: Shristi Estate -->
+  <g transform="translate(112, 16)">
+    <text x="0" y="38" font-family="'Plus Jakarta Sans', 'Outfit', 'Inter', sans-serif" font-size="34" font-weight="800" letter-spacing="-0.5">
+      <tspan fill="#132238" class="brand-text-navy">Shristi</tspan>
+      <tspan dx="8" fill="#6C7D93" font-weight="600" class="brand-text-slate">Estate</tspan>
+    </text>
+    
+    <text x="2" y="58" font-family="'Inter', sans-serif" font-size="9" font-weight="700" letter-spacing="3.2" fill="#6C7D93" class="brand-subtext">
+      COMMERCIAL &amp; INDUSTRIAL REALTY
+    </text>
+  </g>
+</svg>

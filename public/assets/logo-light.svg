@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120" width="100%" height="100%">
+  <!-- Shristi Estate Official Vector Brand Mark (White / Slate Theme on Dark Backgrounds) -->
+  <g transform="translate(10, 8)">
+    <!-- 1. LEFT SKYSCRAPER -->
+    <!-- Left building front pillar -->
+    <polygon points="12,48 24,42 24,104 12,104" fill="#FFFFFF" />
+    <!-- Left building main facet -->
+    <polygon points="28,40 38,34 38,104 28,104" fill="#FFFFFF" />
+    <!-- Left building right shadow facet -->
+    <polygon points="38,34 46,39 46,104 38,104" fill="#7C8D9F" />
+
+    <!-- 2. CENTER SKYSCRAPER (Tallest Peak) -->
+    <!-- Center peak left facet -->
+    <polygon points="48,22 56,12 56,104 48,104" fill="#FFFFFF" />
+    <!-- Center peak main column -->
+    <polygon points="56,12 70,22 70,104 56,104" fill="#FFFFFF" />
+    <!-- Center peak right shadow facet -->
+    <polygon points="70,22 74,25 74,104 70,104" fill="#7C8D9F" />
+
+    <!-- 3. RIGHT SKYSCRAPER -->
+    <!-- Right building front facet -->
+    <polygon points="78,32 82,34 82,104 78,104" fill="#FFFFFF" />
+    <!-- Right building main shadow block -->
+    <polygon points="85,36 98,46 98,104 85,104" fill="#7C8D9F" />
+  </g>
+
+  <!-- BRAND TYPOGRAPHY -->
+  <g transform="translate(125, 75)">
+    <!-- "Shristi" - Crisp White Heavy Sans -->
+    <text x="0" y="0" font-family="'Plus Jakarta Sans', 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="44" font-weight="900" letter-spacing="-0.03em" fill="#FFFFFF">Shristi</text>
+    
+    <!-- "Estate" - Light Steel Slate Modern Sans -->
+    <text x="148" y="0" font-family="'Plus Jakarta Sans', 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="44" font-weight="600" letter-spacing="-0.02em" fill="#93A2B3">Estate</text>
+  </g>
+</svg>

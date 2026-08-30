@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500" fill="none">
+  <!-- Exact Geometric Skyscraper Emblem matching Shristi Estate Brand Logo -->
+  <g transform="translate(50, 40) scale(0.8)">
+    <!-- Tower 1 (Leftmost) -->
+    <!-- Left dark facet -->
+    <path d="M70 380 L70 240 L95 218 L95 380 Z" fill="#132238"/>
+    <!-- Right slate facet -->
+    <path d="M95 380 L95 218 L125 195 L125 380 Z" fill="#6C7D93"/>
+
+    <!-- Tower 2 (Middle-Left) -->
+    <path d="M140 380 L140 180 L180 135 L180 380 Z" fill="#132238"/>
+    <path d="M180 380 L180 135 L205 160 L205 380 Z" fill="#6C7D93"/>
+
+    <!-- Tower 3 (Center Tallest Skyscraper with Peak) -->
+    <!-- Left face of peak -->
+    <path d="M230 380 L230 115 L250 85 L250 380 Z" fill="#132238"/>
+    <!-- Right main shadow facet -->
+    <path d="M250 380 L250 85 L320 130 L320 380 Z" fill="#132238"/>
+    <!-- Center-right mid tone -->
+    <path d="M320 380 L320 130 L345 155 L345 380 Z" fill="#6C7D93"/>
+
+    <!-- Tower 4 (Rightmost) -->
+    <!-- Dark facet -->
+    <path d="M360 380 L360 175 L385 198 L385 380 Z" fill="#132238"/>
+    <!-- Right slate facet -->
+    <path d="M385 380 L385 198 L440 245 L440 380 Z" fill="#6C7D93"/>
+  </g>
+
+  <!-- Typography below emblem: "Shristi Estate" -->
+  <g transform="translate(250, 430)">
+    <text text-anchor="middle" font-family="'Plus Jakarta Sans', 'Outfit', 'Segoe UI', -apple-system, sans-serif" font-size="52" font-weight="800" letter-spacing="-0.5">
+      <tspan fill="#132238" class="brand-text-dark">Shristi </tspan><tspan fill="#6C7D93" font-weight="600" class="brand-text-slate">Estate</tspan>
+    </text>
+  </g>
+</svg>
